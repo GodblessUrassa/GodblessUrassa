@@ -1,5 +1,5 @@
 <!-- Background Image -->
-<div style="background-image: url("C:\\Users\\gbless7\\Pictures\\Pictures\\coloured-shapes.jpg"); background-size: cover; height: 280px;"></div>
+<div style="background-image: url(C:///Users/gbless7/Pictures/Pictures/coloured-shapes.jpg); background-size: cover; height: 280px;"></div>
 
 # Summary
 

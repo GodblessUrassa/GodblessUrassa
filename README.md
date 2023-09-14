@@ -8,7 +8,7 @@ I have experience in data extraction and cleaning, data visualization, statistic
 * <img alig="left" alt="My SQL" width="30px" src="download.png" /> SQL
 
 ##### Articles
-<a href="https://medium.com/@godwalterurassa"><img align="left" alt="Medium" width="52px" src="medium.png" />
+<a href="https://medium.com/@godwalterurassa"><img align="left" alt="Medium" width="80px" src="medium.png" />
 
 <br />
 <br />

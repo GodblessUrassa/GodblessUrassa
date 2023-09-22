@@ -1,6 +1,6 @@
 ![](istockphoto.jpg)
 ## Hi there 👋 I'm a Data Analyst
-I have experience in data extraction and cleaning, data visualization, statistical analysis, and data storytelling.
+I enjoy greatly working with raw data and help different companies/businesses to make data-driven decisons. I have experience in data extraction and cleaning, data visualization, statistical analysis, and data storytelling.
 
 ##### Language and Tools
 * <img alig="left" alt="Power BI" width="35px" src="Microsoft-Power-BI-Logo.png" /> Power BI

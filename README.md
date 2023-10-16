@@ -2,6 +2,8 @@
 ## Hi there 👋 I'm a Data Analyst
 I enjoy greatly working with raw data and help different companies/businesses to make data-driven decisons. I have experience in data extraction and cleaning, data visualization, statistical analysis, and data storytelling.
 
+<a href="RESUME.pdf" class="button pill"><kbd> <br> **RESUME** <br> </kbd></a>
+
 ##### Language and Tools
 * <img alig="left" alt="Power BI" width="35px" src="Microsoft-Power-BI-Logo.png" /> Power BI
 * <img alig="left" alt="Excel" width="35px" src="excel_png.png" /> Microsoft Excel

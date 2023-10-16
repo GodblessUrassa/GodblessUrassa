@@ -1,4 +1,5 @@
 ![](istockphoto.jpg)
+
 ## Hi there 👋 I'm a Data Analyst
 I enjoy greatly working with raw data and help different companies/businesses to make data-driven decisons. I have experience in data extraction and cleaning, data visualization, statistical analysis, and data storytelling.
 

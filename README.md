@@ -2,12 +2,13 @@
 ## Hi there 👋 I'm a Data Analyst
 I enjoy greatly working with raw data and help different companies/businesses to make data-driven decisons. I have experience in data extraction and cleaning, data visualization, statistical analysis, and data storytelling.
 
-<a href="RESUME.pdf" class="button pill"><kbd> <br> **RESUME** <br> </kbd></a>
+<p align="center"><a href="RESUME.pdf" class="button pill"><kbd> <br> **RESUME** <br> </kbd></a></p>
 
 ##### Language and Tools
-* <img alig="left" alt="Power BI" width="35px" src="Microsoft-Power-BI-Logo.png" /> Power BI
-* <img alig="left" alt="Excel" width="35px" src="excel_png.png" /> Microsoft Excel
-* <img alig="left" alt="My SQL" width="30px" src="download.png" /> SQL
+|---|---|---|
+|<p align="center"><img alig="left" alt="Power BI" width="35px" src="Microsoft-Power-BI-Logo.png" /> Power BI</p>|
+|<p align="center"><img alig="left" alt="Excel" width="35px" src="excel_png.png" /> Microsoft Excel</p>|
+|<img alig="left" alt="My SQL" width="30px" src="download.png" /> SQL|
 
 ##### Articles
 <a href="https://medium.com/@godwalterurassa"><img align="left" alt="Medium" width="80px" src="medium.png" />

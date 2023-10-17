@@ -24,5 +24,5 @@ ___
 
 **Contact**
 ___
-<a href="godwalterurassa@gmail.com"><img align="left" alt="Medium" width="30px" src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" />
+<a href="https://twitter.com/godbless_urassa"><img align="left" alt="Medium" width="30px" src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" />
 <a href="https://www.linkedin.com/in/godbless-urassa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWpAS%2B4QURb%2BZ0rpk1N3RnA%3D%3D)"><img align="left" alt="Medium" width="30px" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" />
